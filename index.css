@@ -1,0 +1,44 @@
+/* .menu-ul:hover {
+    &#child 
+    
+}
+.menu--right {
+    .menuToggle {
+      position: fixed;
+      right: 0;
+      input {
+        right: 50px;
+      }
+      span {
+        right: 50px;
+      }
+    }
+    .menuItem {
+      right: 0;
+      margin: -100px 0 0 0;
+      transform: translate(100%, 0);
+      li {
+        a {
+          &:hover {
+            padding-left: 5px;
+          }
+        }
+      }
+    }
+  }
+  #menu{
+    background-color: aqua;
+  }
+  @media screen  and (max-width:600px){
+    #hamburger{
+    background-color: brown;
+       
+    }
+    #hamburger:hover #title{
+      display: block;
+     background-color: red;
+      
+
+    }
+    
+  } */
